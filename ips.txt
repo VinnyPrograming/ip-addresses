@@ -6,7 +6,7 @@ Browser	Chrome Mobile (105.0.0.0)
 Operating System	Android 11
 Device	Cricket Ovation 2
 User Agent	Mozilla/5.0 (Linux; Android 11; EC1002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36
-Referring URL	https://nobolinev2.vinnyvalentino.repl.co/
+Referring URL	
 Host Name	107.122.177.11
 ISP	ATT-INTERNET4
 --------------------------------------

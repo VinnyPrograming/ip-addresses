@@ -1,3 +1,16 @@
+Date/Time    2022-09-24 19:53:09 UTC
+IP Address    173.44.36.181
+VPN/Proxy Detection NEW!    This IP may be a VPN or Proxy
+Country 
+United States, Miami
+Browser    Chrome Mobile iOS (105.0.5195.147)
+Operating System    iPadOS 15.6
+Device    Apple iPad
+User Agent    Mozilla/5.0 (iPad; CPU OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/105.0.5195.147 Mobile/15E148 Safari/604.1
+Referring URL    no referrer
+Host Name    173.44.36.181.static.quadranet.com
+ISP    ASN-QUADRANET-GLOBAL
+------------------------------------
 Date/Time	2022-09-24 19:29:41 UTC
 IP Address	107.122.177.11
 Country 

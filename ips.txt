@@ -1,3 +1,63 @@
+
+Date/Time    2022-09-24 15:18:43 UTC
+IP Address    195.917.910.88
+
+Country 
+United States, Washington
+Battery    100%
+Charging    Yes
+Orientation    landscape-primary
+Timezone    EST / Europe
+User Time    Sat Sep 24 2022 17:18:01 EST+0200 (Central European Summer Time)
+Language    en-US
+Incognito/Private Window    No
+Ad Blocker    No
+Screen Size    1920 x 1080
+GPU    AMD, AMD Radeon(TM) RX Vega 11 Graphics
+Browser    Chrome (105.0.0.0)
+Operating System    Windows 10 x64
+Touch Screen    No
+User Agent    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Platform    Win32
+Referring URL    no referrer
+Host Name    unn-195-181-174-103.datapacket.com
+ISP    Datacamp Limited
+---------------------
+Date/Time	2022-09-24 19:53:09 UTC
+IP Address	173.44.36.181
+VPN/Proxy Detection NEW!	This IP may be a VPN or Proxy
+Country 
+United States, Miami
+Browser	Chrome Mobile iOS (105.0.5195.147)
+Operating System	iPadOS 15.6
+Device	Apple iPad
+User Agent	Mozilla/5.0 (iPad; CPU OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/105.0.5195.147 Mobile/15E148 Safari/604.1
+Referring URL	no referrer
+Host Name	173.44.36.181.static.quadranet.com
+ISP	ASN-QUADRANET-GLOBAL
+---------------------
+Date/Time	2022-09-24 21:43:11 UTC
+IP Address	70.78.197.253
+Country 
+Canada, Chilliwack
+Browser	Chrome (105.0.0.0)
+Operating System	Windows 10 x64
+User Agent	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Referring URL	
+Host Name	S0106e0dbd1c2914c.va.shawcable.net
+ISP	SHAW
+------------------------
+Date/Time	2022-09-24 20:34:55 UTC
+IP Address	45.26.16.59
+Country 
+United States, Wichita
+Browser	Chrome (106.0.0.0)
+Operating System	Windows 10 x64
+User Agent	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Referring URL	
+Host Name	45-26-16-59.lightspeed.wchtks.sbcglobal.net
+ISP	ATT-INTERNET4
+-----------------------------
 Date/Time    2022-09-24 15:18:43 UTC
 IP Address    195.917.910.88
 
